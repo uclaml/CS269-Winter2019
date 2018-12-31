@@ -22,6 +22,7 @@ Deep learning has achieved great success in many applications such as image proc
 | 1 | 1/7 |   |  | 
 | 2 | 1/9 |  |   | ---  |
 | 3 | 1/14 |  |   | --- |
+|-|-|-|-|-|
 | | | **Part II: Deep Learning Basics** | | |
-
+|-|-|-|-|-|
 | | | **Part III: Deep Learning Theory** | | |
