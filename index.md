@@ -1,12 +1,13 @@
 
-# CS269 Foundations of Deep Learning
+## Logistics
 
-University of California, Los Angeles  
+<!--University of California, Los Angeles  -->
 
-Time: **Monday and Wednesday 4:00PM - 5:50PM**, Location: **WGYOUNG 4216**  
-Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu@cs.ucla.edu)   
-Teaching Assistant: Xinzhu Bei (Email: xzbei@cs.ucla.edu)
-Office hours: TBD 
+- Time: **Monday and Wednesday 4:00PM - 5:50PM**
+- Location: **WGYOUNG 4216**  
+- Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu@cs.ucla.edu)   
+- Teaching Assistant: Xinzhu Bei (Email: xzbei@cs.ucla.edu)
+- Office hours: TBD 
 
 
 ## Overview
@@ -17,6 +18,8 @@ Deep learning has achieved great success in many applications such as image proc
 
 There is no required textbook. The following are recommended textbooks:
 
+1. Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014. 
+2. 
 
 ## Grading Policy
  
@@ -26,9 +29,9 @@ There is no required textbook. The following are recommended textbooks:
 
 
 | # | Date  | Topic  | pdf | ipynb  |
-|-|-|-|-|-|
+|--|--|--|--|--|
 | | | **Part I: Statistical Learning Theory** | | |
-| 1 | 1/7 |  Uniform Convergence |  | 
+| 1 | 1/7 |  Uniform Convergence |  |  |
 | 2 | 1/9 |  |   | ---  |
 | 3 | 1/14 |  |   | --- |
 |-|-|-|-|-|
