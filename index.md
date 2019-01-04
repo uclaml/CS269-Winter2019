@@ -1,6 +1,5 @@
 
 
-Testing
 
 ## Overview
 
@@ -20,6 +19,9 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
     - The TA's office hour is Monday 11:00am-1:00pm at Bolter Hall 3256S-F.
+- Course Website:[https://uclaml.github.io/CS269-Winter2019](https://uclaml.github.io/CS269-Winter2019)
+- Course Forum: [https://piazza.com/ucla/winter2019/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
+If you haven’t already, [sign up here](piazza.com/ucla/winter2019/cs269)
 
 ## Recommended Textbook
 
@@ -35,13 +37,9 @@ There is no required textbook. The following are recommended textbooks:
 Grades will be computed based on the following factors:
 
 - Quiz 10%
-
 - Scribing 10%
-
 - Homework 30%
-
 - Paper Presentation 20%
-
 - Project 30%
 
 ## Schedule
@@ -55,3 +53,56 @@ Grades will be computed based on the following factors:
 | 3 | 1/14 | Rademacher Complexity |   | ---  |
 | | | **Part II: Deep Learning Theory** | | |
 | 10 | 2/6 | Generalization Error of DNN I | | |
+
+## Academic Integrity Policy
+
+Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
+
+## Quiz
+
+There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts.  
+The quizzes are **closed book** and **closed notes**. No electronic aids or cheat sheets are allowed. 
+
+##Scribing
+
+Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 3 notes in total. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by TA or the Instructor. 
+
+## Homework
+
+There will be about 4 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation, algorithm analysis and programming. **Homework is required to be written in Latex**. Latex homework template will be provided.
+<!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
+Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances. -->
+
+Homework assignments will be submitted through [Gradescope](https://www.gradescope.com/courses/35032). If you didn't receive the invitation, email TA with your name, UID and account associated email address. Login via the invite, and submit the homework assignments on time. Homework is worth full credit before the due date. It is worth zero credit after the due date. 
+
+## Paper Presentation
+
+After each lecture, there will be a few recommended readings. Each student is required to select one paper from the list, and prepare a 25 minutes presentation for the class. One paper can only be presented by one student. Students are expected to prepare the slides by themselves, but the original authors' slides are allowed to be used with proper citation. 
+
+Paper presentation sign up is due in the end of 3rd week of the semester. The paper presentation will start on the 5th week.
+
+Both the instructor and other students will grade the presentation (no self-grading). You can check the detailed grading criteria on the [course syllabus](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0).
+
+<!-- The detailed grading criteria are as follows:
+\begin{itemize}
+\item Slides content was clearly visible and self-explainable (5 points)
+\item Important messages of the paper were properly delivered (5 points)
+\item The presentation was easy to follow 
+\item Theory and proofs were  clearly explained (5 points)
+%\item All students in the team well understood the paper
+\item Presenter did not just read off the slides (5 points)
+\item Perfect timing (5 points)
+\item Able to well address audience’s questions (5 points)
+\item I have learned something from this presentation and would like to read the paper in future (5 points)
+\end{itemize} -->
+
+## Project
+
+Students are required to do a project in this class. The goal of the course project is to provide the students an opportunity to explore research directions in optimization or machine learning. Therefore, the project should be related to the course content. An expected project consists of 
+
+- A novel and sound solution to an interesting problem
+- Comprehensive literature review and discussion
+- Thorough theoretical/experimental evaluation and comparisons with existing approaches
+
+The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or  journals (Journal of Machine Learning Research). **Students cannot use their own published work, or work under review by the end of winter quarter as the course project.**
+Detailed instruction is available [here](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0)).
