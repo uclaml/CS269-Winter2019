@@ -15,7 +15,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 - Time: **Monday and Wednesday 4:00PM - 5:50PM**
 - Location: **WGYOUNG 4216**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
-- Teaching Assistant: Xinzhu Bei (Email: xzbei at cs dot ucla dor edu)
+- Teaching Assistant: Xinzhu Bei (Email: xzbei at cs dot ucla dot edu)
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
     - The TA's office hour is Monday 11:00am-1:00pm at Bolter Hall 3256S-F.
