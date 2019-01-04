@@ -21,7 +21,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
     - The TA's office hour is Monday 11:00am-1:00pm at Bolter Hall 3256S-F.
 - Course Website:[https://uclaml.github.io/CS269-Winter2019](https://uclaml.github.io/CS269-Winter2019)
 - Course Forum: [https://piazza.com/ucla/winter2019/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
-If you haven’t already, [sign up here](piazza.com/ucla/winter2019/cs269)
+(If you haven’t already, [sign up here](piazza.com/ucla/winter2019/cs269).)
 
 ## Recommended Textbook
 
@@ -63,7 +63,7 @@ Students are encouraged to read the [UCLA Student Conduct Code](https://www.dean
 There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts.  
 The quizzes are **closed book** and **closed notes**. No electronic aids or cheat sheets are allowed. 
 
-##Scribing
+## Scribing
 
 Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 3 notes in total. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by TA or the Instructor. 
 
