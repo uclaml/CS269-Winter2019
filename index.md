@@ -73,7 +73,7 @@ There will be about 4 homework assignments during the semester as we cover the c
 <!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
 Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances. -->
 
-Homework assignments will be submitted through [Gradescope](https://www.gradescope.com/courses/35032). If you didn't receive the invitation, email TA with your name, UID and account associated email address. Login via the invite, and submit the homework assignments on time. Homework is worth full credit before the due date. It is worth zero credit after the due date. 
+Homework assignments will be submitted through [Gradescope](https://www.gradescope.com/courses/35032). (If you didn't receive the invitation, email TA with your name, UID and account associated email address.) Login via the invite, and submit the homework assignments on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
 
 ## Paper Presentation
 
@@ -104,5 +104,5 @@ Students are required to do a project in this class. The goal of the course proj
 - Comprehensive literature review and discussion
 - Thorough theoretical/experimental evaluation and comparisons with existing approaches
 
-The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or  journals (Journal of Machine Learning Research). **Students cannot use their own published work, or work under review by the end of winter quarter as the course project.**
-Detailed instruction is available [here](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0)).
+The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). **Students cannot use their own published work, or work under review by the end of winter quarter as the course project.**
+Detailed instruction is available [here](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0).
