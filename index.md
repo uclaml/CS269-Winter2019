@@ -1,14 +1,14 @@
 
 
 
-### Overview
+## Overview
 
 Deep learning has achieved great success in many applications such as image processing, speech recognition and Go games. However, the reason why deep learning is so powerful remains elusive. The goal of this course is to understand the successes of deep learning by studying and building the theoretical foundations of deep learning. Topics covered by this course include but are not limited to: expressive power of deep learning, optimization for deep learning, generalization performance of deep learning and robustness of deep learning. Instructor will give lectures on advanced topics of statistical learning theory. Students will present and discuss papers on the selected topics, and do a course project.
 
-### Prerequisites:
+## Prerequisites:
 Two years of college mathematics, including calculus, linear algebra, probability and statistics, and the ability to write computer programs. CS 260 or an equivalent course.
 
-### Logistics
+## Logistics
 
 <!--University of California, Los Angeles  -->
 
@@ -23,7 +23,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 - Course Forum: [https://piazza.com/ucla/winter2019/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2019/cs269).)
 
-### Recommended Textbook
+## Recommended Textbook
 
 There is no required textbook. The following are recommended textbooks:
 
@@ -32,7 +32,7 @@ There is no required textbook. The following are recommended textbooks:
 3. Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
 4. Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Dive into Deep Learning, 2018.
 
-### Grading Policy
+## Grading Policy
  
 Grades will be computed based on the following factors:
 
@@ -42,7 +42,7 @@ Grades will be computed based on the following factors:
 - Paper Presentation 20%
 - Project 30%
 
-### Schedule
+## Schedule
 
 
 | # | Date  | Topic  | pdf | ipynb  |
@@ -54,20 +54,20 @@ Grades will be computed based on the following factors:
 | | | **Part II: Deep Learning Theory** | | |
 | 10 | 2/6 | Generalization Error of DNN I | | |
 
-### Academic Integrity Policy
+## Academic Integrity Policy
 
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
 
-### Quiz
+## Quiz
 
 There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts.  
 The quizzes are **closed book** and **closed notes**. No electronic aids or cheat sheets are allowed. 
 
-### Scribing
+## Scribing
 
 Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 3 notes in total. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by TA or the Instructor. 
 
-### Homework
+## Homework
 
 There will be about 4 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation, algorithm analysis and programming. **Homework is required to be written in Latex**. Latex homework template will be provided.
 <!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
@@ -75,7 +75,7 @@ Internet sites. Students cannot use old solution sets for this class or solution
 
 Homework assignments will be submitted through [Gradescope](https://www.gradescope.com/courses/35032). (If you didn't receive the invitation, email TA with your name, UID and account associated email address.) Login via the invite, and submit the homework assignments on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
 
-### Paper Presentation
+## Paper Presentation
 
 After each lecture, there will be a few recommended readings. Each student is required to select one paper from the list, and prepare a 25 minutes presentation for the class. One paper can only be presented by one student. Students are expected to prepare the slides by themselves, but the original authors' slides are allowed to be used with proper citation. 
 
@@ -96,7 +96,7 @@ Both the instructor and other students will grade the presentation (no self-grad
 \item I have learned something from this presentation and would like to read the paper in future (5 points)
 \end{itemize} -->
 
-### Project
+## Project
 
 Students are required to do a project in this class. The goal of the course project is to provide the students an opportunity to explore research directions in optimization or machine learning. Therefore, the project should be related to the course content. An expected project consists of 
 
