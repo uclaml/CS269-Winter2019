@@ -106,3 +106,11 @@ Students are required to do a project in this class. The goal of the course proj
 
 The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). **Students cannot use their own published work, or work under review by the end of winter quarter as the course project.**
 Detailed instruction is available [here](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0).
+
+## Some Statistical Learning Theory Courses
+
+[Peter Bartlett's statistical learning theory course] (https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
+
+[Sham Kakade's statistical learning theory course] (http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
+
+[Maxim Raginsky's statistical learning theory course] (http://maxim.ece.illinois.edu/teaching/SLT/)
