@@ -32,6 +32,15 @@ There is no required textbook. The following are recommended textbooks:
 3. Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
 4. Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Dive into Deep Learning, 2018.
 
+There are many other great statistical learning theory courses. To mention a few:
+
+[Peter Bartlett's statistical learning theory course] (https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
+
+[Sham Kakade's statistical learning theory course] (http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
+
+[Maxim Raginsky's statistical learning theory course] (http://maxim.ece.illinois.edu/teaching/SLT/)
+
+
 ## Grading Policy
  
 Grades will be computed based on the following factors:
@@ -107,10 +116,3 @@ Students are required to do a project in this class. The goal of the course proj
 The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research). **Students cannot use their own published work, or work under review by the end of winter quarter as the course project.**
 Detailed instruction is available [here](https://www.dropbox.com/s/arxjedzt8frmrkg/syllabus_CS269.pdf?dl=0).
 
-## Some Statistical Learning Theory Courses
-
-[Peter Bartlett's statistical learning theory course] (https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
-
-[Sham Kakade's statistical learning theory course] (http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
-
-[Maxim Raginsky's statistical learning theory course] (http://maxim.ece.illinois.edu/teaching/SLT/)
