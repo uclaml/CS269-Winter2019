@@ -34,11 +34,11 @@ There is no required textbook. The following are recommended textbooks:
 
 There are many other great statistical learning theory courses. To mention a few:
 
-[Peter Bartlett's statistical learning theory course] (https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
+[Peter Bartlett's statistical learning theory course](https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/)
 
-[Sham Kakade's statistical learning theory course] (http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
+[Sham Kakade's statistical learning theory course](http://stat.wharton.upenn.edu/~skakade/courses/stat928/)
 
-[Maxim Raginsky's statistical learning theory course] (http://maxim.ece.illinois.edu/teaching/SLT/)
+[Maxim Raginsky's statistical learning theory course](http://maxim.ece.illinois.edu/teaching/SLT/)
 
 
 ## Grading Policy
