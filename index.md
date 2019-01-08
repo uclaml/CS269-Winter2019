@@ -65,8 +65,8 @@ Grades will be computed based on the following factors:
 | 6 | 1/23 | PAC Bayes | | |
 | 7 | 1/28 | Paper presentation | | |
 | 8 | 1/30 | Paper presentation | | |
-| 9 | 2/4 | Algorithmic Stability | | |
-| 10 | 2/6 | Paper presentation | | |
+| 9 | 2/4 | Compression Bounds | | |
+| 10 | 2/6 | Algorithmic Stability | | |
 
 ## Academic Integrity Policy
 
