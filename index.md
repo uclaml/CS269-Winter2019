@@ -57,11 +57,16 @@ Grades will be computed based on the following factors:
 | # | Date  | Topic  | pdf | ipynb  |
 |----|----|----|----|----|
 | | | **Part I: Statistical Learning Theory** | | |
-| 1 | 1/7 |  Concentration Inequalities |  |  |
-| 2 | 1/9 | Uniform Convergence |   | ---  |
-| 3 | 1/14 | Rademacher Complexity |   | ---  |
-| | | **Part II: Deep Learning Theory** | | |
-| 10 | 2/6 | Generalization Error of DNN I | | |
+| 1 | 1/7 | Introduction  |  |  |
+| 2 | 1/9 | Concentration Inequalities |   | ---  |
+| 3 | 1/14 | Uniform Convergence and Rademacher Complexity |   | ---  |
+| 4 | 1/16 | VC Dimension and Sauer's Lemma | | |
+| 5 | 1/21 | Covering number | | |
+| 6 | 1/23 | PAC Bayes | | |
+| 7 | 1/28 | Paper presentation | | |
+| 8 | 1/30 | Paper presentation | | |
+| 9 | 2/4 | Algorithmic Stability | | |
+| 10 | 2/6 | Paper presentation | | |
 
 ## Academic Integrity Policy
 
