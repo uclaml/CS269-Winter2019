@@ -54,12 +54,12 @@ Grades will be computed based on the following factors:
 ## Schedule
 
 
-| # | Date  | Topic  | pdf | ipynb  |
+| # | Date  | Topic  | scribed note | reading  | 
 |----|----|----|----|----|
 | | | **Part I: Statistical Learning Theory** | | |
-| 1 | 1/7 | Introduction  |  |  |
-| 2 | 1/9 | Concentration Inequalities |   | ---  |
-| 3 | 1/14 | Uniform Convergence and Rademacher Complexity |   | ---  |
+| 1 | 1/7 | Introduction  | [lecture1](https://www.dropbox.com/s/c4bjs0uz8h0nmop/lecture1.pdf?dl=0) |  |
+| 2 | 1/9 | Concentration Inequalities | lecture2  | Appendix B in Textbook 1|
+| 3 | 1/14 | Uniform Convergence and Rademacher Complexity |   |  |
 | 4 | 1/16 | VC Dimension and Sauer's Lemma | | |
 | 5 | 1/21 | Covering number | | |
 | 6 | 1/23 | PAC Bayes | | |
