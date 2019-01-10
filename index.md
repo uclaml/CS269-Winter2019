@@ -13,7 +13,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 <!--University of California, Los Angeles  -->
 
 - Time: **Monday and Wednesday 4:00PM - 5:50PM**
-- Location: **WGYOUNG 4216**  
+- Location: **WG YOUNG Hall 4216**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: Xinzhu Bei (Email: xzbei at cs dot ucla dot edu)
 - Office hours: 
@@ -46,7 +46,7 @@ There are many other great statistical learning theory courses. To mention a few
 Grades will be computed based on the following factors:
 
 - Quiz 10%
-- Scribing 10%
+- Lecture Note Scribing 10%
 - Homework 30%
 - Paper Presentation 20%
 - Project 30%
@@ -61,7 +61,7 @@ Grades will be computed based on the following factors:
 | 2 | 1/9 | Concentration Inequalities | lecture2  | Appendix B in SB|
 | 3 | 1/14 | Uniform Convergence and Rademacher Complexity |   |  |
 | 4 | 1/16 | VC Dimension and Sauer's Lemma | | |
-| 5 | 1/21 | Covering number | | |
+| 5 | 1/21 | Covering number and Chaining | | |
 | 6 | 1/23 | PAC Bayes | | |
 | 7 | 1/28 | Paper presentation | | |
 | 8 | 1/30 | Paper presentation | | |
@@ -74,16 +74,15 @@ Students are encouraged to read the [UCLA Student Conduct Code](https://www.dean
 
 ## Quiz
 
-There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts.  
-The quizzes are **closed book** and **closed notes**. No electronic aids or cheat sheets are allowed. 
+There will be 5 in-class pop-up quiz for the purpose of reviewing the newly learned concepts. The quizzes are **closed book** and **closed notes**. No electronic aids or cheat sheets are allowed. 
 
-## Scribing
+## Lecture Note Scribing
 
 Students are required to scribe one lecture note. The latex template for lecture note will be provided. The scribed lecture notes should be a zip file submitted on CCLE that compiles without errors, and it is due **4 days after the lecture**. This note will be graded. For example, if 2 students are assigned to scribe a given lecture, I expect to receive 2 separate notes. The individual notes are primarily for grading purposes (and also to make sure that each student scribes their own lecture notes), while the final version of the lecture note will be posted on the course website, after being proofread and edited by TA and/or the Instructor. 
 
 ## Homework
 
-There will be about 4 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation, algorithm analysis and programming. **Homework is required to be written in Latex**. Latex homework template will be provided.
+There will be about 4 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation and algorithm analysis. **Homework is required to be written in Latex**. Latex homework template will be provided.
 <!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
 Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances. -->
 
