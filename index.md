@@ -54,7 +54,7 @@ Grades will be computed based on the following factors:
 ## Schedule
 
 
-| # | Date  | Topic  | scribed note | reading  | 
+| # | Date  | Topic  | scribed note | reading materials  | 
 |----|----|----|----|----|
 | | | **Part I: Statistical Learning Theory** | | |
 | 1 | 1/7 | Introduction  | [lecture1](https://www.dropbox.com/s/c4bjs0uz8h0nmop/lecture1.pdf?dl=0) | Chapter 2 in MRT |
