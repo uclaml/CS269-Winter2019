@@ -27,7 +27,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 
 There is no required textbook. The following are recommended textbooks:
 
-1. [SB] Shai Shalev-Shwartz, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014. 
+1. [SSBD] Shai Shalev-Shwartz, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014. 
 2. [MRT] Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar. Foundations of machine learning. MIT press, 2012. 
 3. [GBCB] Ian Goodfellow, Yoshua Bengio, Aaron Courville, and Yoshua Bengio. Deep learning. Vol. 1. Cambridge: MIT press, 2016.
 4. [ZLLS] Aston Zhang, Zack C. Lipton, Mu Li, Alex J. Smola, Dive into Deep Learning, 2018.
@@ -58,7 +58,7 @@ Grades will be computed based on the following factors:
 |----|----|----|----|----|
 | | | **Part I: Statistical Learning Theory** | | |
 | 1 | 1/7 | Introduction  | [lecture1](https://www.dropbox.com/s/c4bjs0uz8h0nmop/lecture1.pdf?dl=0) | Chapter 2 in MRT |
-| 2 | 1/9 | Concentration Inequalities | lecture2  | Appendix B in SB|
+| 2 | 1/9 | Concentration Inequalities | lecture2  | Appendix B in SSBD|
 | 3 | 1/14 | Uniform Convergence and Rademacher Complexity |   |  |
 | 4 | 1/16 | VC Dimension and Sauer's Lemma | | |
 | 5 | 1/21 | Covering number and Chaining | | |
