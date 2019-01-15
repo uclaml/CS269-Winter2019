@@ -58,19 +58,11 @@ Grades will be computed based on the following factors:
 |----|----|----|----|----|
 | | | **Part I: Statistical Learning Theory** | | |
 | 1 | 1/7 | Introduction  | [lecture1](https://www.dropbox.com/s/c4bjs0uz8h0nmop/lecture1.pdf?dl=0) | Chapter 2 in MRT |
-<<<<<<< HEAD
-| 2 | 1/9 | Concentration Inequalities | lecture2  | Appendix B in SSBD|
+| 2 | 1/9 | Concentration Inequalities | [lecture2](https://www.dropbox.com/s/mtfravtpeznsbuk/lec02.pdf?dl=0)  | Appendix B in SSBD|
 | 3 | 1/14 | Uniform Convergence |   |  |
 | 4 | 1/16 | Rademacher Complexity | | |
 | 5 | 1/21 | VC Dimension and Sauer's Lemma | | |
 | 6 | 1/23 | Covering number and Chaining | | |
-=======
-| 2 | 1/9 | Concentration Inequalities | [lecture2](https://www.dropbox.com/s/mtfravtpeznsbuk/lec02.pdf?dl=0)  | Appendix B in SSBD|
-| 3 | 1/14 | Uniform Convergence and Rademacher Complexity |   |  |
-| 4 | 1/16 | VC Dimension and Sauer's Lemma | | |
-| 5 | 1/21 | Covering number and Chaining | | |
-| 6 | 1/23 | PAC Bayes | | |
->>>>>>> d1d386e96b3390f8c668aa010f0922b3ded652cf
 | 7 | 1/28 | Paper presentation | | |
 | 8 | 1/30 | Paper presentation | | |
 | 9 | 2/4 | PAC Bayes | | |
