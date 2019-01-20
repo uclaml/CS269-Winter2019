@@ -59,7 +59,7 @@ Grades will be computed based on the following factors:
 | | | **Part I: Statistical Learning Theory** | | |
 | 1 | 1/7 | Introduction  | [lecture1](https://www.dropbox.com/s/c4bjs0uz8h0nmop/lecture1.pdf?dl=0) | Chapter 2 in MRT |
 | 2 | 1/9 | Concentration Inequalities | [lecture2](https://www.dropbox.com/s/mtfravtpeznsbuk/lec02.pdf?dl=0)  | Appendix B in SSBD|
-| 3 | 1/14 | Uniform Convergence |   | Chapter 26 in SSBD|
+| 3 | 1/14 | Uniform Convergence | [lecture3](https://www.dropbox.com/s/fyhqr7pp1bv929m/lec03.pdf?dl=0)   | Chapter 26 in SSBD|
 | 4 | 1/16 | Symmetrization and Rademacher Complexity | | Chapter 26 in SSBD|
 | 5 | 1/21 | VC Dimension and Sauer's Lemma | | |
 | 6 | 1/23 | Covering number and Chaining | | |
