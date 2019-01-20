@@ -61,13 +61,13 @@ Grades will be computed based on the following factors:
 | 2 | 1/9 | Concentration Inequalities | [lecture2](https://www.dropbox.com/s/mtfravtpeznsbuk/lec02.pdf?dl=0)  | Appendix B in SSBD|
 | 3 | 1/14 | Uniform Convergence | [lecture3](https://www.dropbox.com/s/fyhqr7pp1bv929m/lec03.pdf?dl=0)   | Chapter 26 in SSBD|
 | 4 | 1/16 | Symmetrization and Rademacher Complexity | | Chapter 26 in SSBD|
-| 5 | 1/21 | VC Dimension and Sauer's Lemma | | |
-| 6 | 1/23 | Covering number and Chaining | | |
-| 7 | 1/28 | Paper presentation | | |
-| 8 | 1/30 | Paper presentation | | |
-| 9 | 2/4 | PAC Bayes | | |
-| 10 | 2/6 | Compression Bounds | | |
-| 11 | 2/11 | Algorithmic Stability | | |
+| 5 | 1/23 | VC Dimension and Sauer's Lemma | | |
+| 6 | 1/28 | Paper presentation | | |
+| 7 | 1/30 | Paper presentation | | |
+| 8 | 2/4 | Covering number and Chaining | | |
+| 9 | 2/6 | PAC Bayes | | |
+| 10 | 2/11 | Compression Bounds | | |
+| 11 | 2/13 | Algorithmic Stability | | |
 
 ## Academic Integrity Policy
 
