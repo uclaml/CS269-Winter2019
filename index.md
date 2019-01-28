@@ -64,10 +64,12 @@ Grades will be computed based on the following factors:
 | 5 | 1/23 | Rademacher Complexity cont'd | | |
 | 6 | 1/28 | Paper presentation | | |
 | 7 | 1/30 | Paper presentation | | |
-| 8 | 2/4 | VC Dimension and Sauer's Lemma | | |
+| 8 | 2/4 | Generalization Bounds of DNNs I | | |
 | 9 | 2/6 | Covering number and Chaining | | |
-| 10 | 2/11 | PAC Bayes | | |
-| 11 | 2/13 | Algorithmic Stability | | |
+| 10 | 2/11 | Generalization Bounds of DNNs II | | |
+| 11 | 2/13 | PAC Bayes | | |
+| 12 | 2/20 | Generalization Bounds of DNNs III | | |
+| 13 | 2/25 | Algorithmic Stability | | |
 
 ## Academic Integrity Policy
 
