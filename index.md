@@ -61,7 +61,7 @@ Grades will be computed based on the following factors:
 | 2 | 1/9 | Concentration Inequalities | [lecture2](https://www.dropbox.com/s/mtfravtpeznsbuk/lec02.pdf?dl=0)  | Appendix B in SSBD|
 | 3 | 1/14 | Uniform Convergence | [lecture3](https://www.dropbox.com/s/fyhqr7pp1bv929m/lec03.pdf?dl=0)   | Chapter 26 in SSBD|
 | 4 | 1/16 | Symmetrization and Rademacher Complexity | [lecture4](https://www.dropbox.com/s/t0xot0s20rszz7u/lec04.pdf?dl=0) | Chapter 26 in SSBD|
-| 5 | 1/23 | Rademacher Complexity cont'd | | |
+| 5 | 1/23 | Rademacher Complexity cont'd |[lecture5](https://www.dropbox.com/s/smqtp0r51hkj8bt/lec05.pdf?dl=0) | |
 | 6 | 1/28 | Paper presentation | | |
 | 7 | 1/30 | Paper presentation | | |
 | 8 | 2/4 | Generalization Bounds of DNNs I | | |
