@@ -62,14 +62,14 @@ Grades will be computed based on the following factors:
 | 3 | 1/14 | Uniform Convergence | [lecture3](https://www.dropbox.com/s/fyhqr7pp1bv929m/lec03.pdf?dl=0)   | Chapter 26 in SSBD|
 | 4 | 1/16 | Symmetrization and Rademacher Complexity | [lecture4](https://www.dropbox.com/s/t0xot0s20rszz7u/lec04.pdf?dl=0) | Chapter 26 in SSBD|
 | 5 | 1/23 | Rademacher Complexity cont'd |[lecture5](https://www.dropbox.com/s/smqtp0r51hkj8bt/lec05.pdf?dl=0) | |
-| 6 | 1/28 | Paper presentation | | |
-| 7 | 1/30 | Paper presentation | | |
-| 8 | 2/4 | Generalization Bounds of DNNs I | | |
-| 9 | 2/6 | Covering number and Chaining | | |
-| 10 | 2/11 | Generalization Bounds of DNNs II | | |
-| 11 | 2/13 | PAC Bayes | | |
-| 12 | 2/20 | Generalization Bounds of DNNs III | | |
-| 13 | 2/25 | Algorithmic Stability | | |
+|  | 1/28 | Paper presentation | | |
+|  | 1/30 | Paper presentation | | |
+| 6 | 2/4 | Growth Function and VC Dim | | |
+| 7 | 2/6 | Covering number  | | |
+| 8 | 2/11 | Dudley's Chaining | | |
+| 9 | 2/13 | Generalization Bounds of DNNs I | | |
+| 10 | 2/20 | Generalization Bounds of DNNs II | | |
+| 11 | 2/25 | Algorithmic Stability | | |
 
 ## Academic Integrity Policy
 
