@@ -64,8 +64,8 @@ Grades will be computed based on the following factors:
 | 5 | 1/23 | Rademacher Complexity cont'd |[lecture5](https://www.dropbox.com/s/smqtp0r51hkj8bt/lec05.pdf?dl=0) | |
 | 6 | 1/28 | Paper presentation | | |
 | 7 | 1/30 | Paper presentation | | |
-| 8 | 2/4 | Generalization Bounds of DNNs I | | |
-| 9 | 2/6 | Covering number and Chaining | | |
+| 8 | 2/4 | Growth Function and VC Dimension |[lecture6](https://www.dropbox.com/s/4m7ser6jw8mhjt4/lec06.pdf?dl=0) | |
+| 9 | 2/6 | Sauer’s Lemma and Covering Number |[lecture7](https://www.dropbox.com/s/xgmhpuuw05i514l/lec07.pdf?dl=0) | |
 | 10 | 2/11 | Generalization Bounds of DNNs II | | |
 | 11 | 2/13 | PAC Bayes | | |
 | 12 | 2/20 | Generalization Bounds of DNNs III | | |
