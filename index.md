@@ -67,7 +67,7 @@ Grades will be computed based on the following factors:
 | 6 | 2/4 | Growth Function and VC Dimension |[lecture6](https://www.dropbox.com/s/4m7ser6jw8mhjt4/lec06.pdf?dl=0) | Chapter 3 in MRT |
 | 7 | 2/6 | Sauer’s Lemma and Covering Number |[lecture7](https://www.dropbox.com/s/xgmhpuuw05i514l/lec07.pdf?dl=0) | Chapter 3 in MRT |
 | 8 | 2/11 | Dudley's Chaining |[lecture8](https://www.dropbox.com/s/mzmi3o268d6uvl3/lecture8.pdf?dl=0) | |
-| 9 | 2/13 | Generalization Bounds of DNNs I | | |
+| 9 | 2/13 | Generalization Bounds of DNNs I |[lecture9](https://www.dropbox.com/s/2yckn0zq7k5h53z/lecture9.pdf?dl=0) | |
 | 10 | 2/20 | Generalization Bounds of DNNs II | | |
 | 11 | 2/25 | Algorithmic Stability | | |
 
