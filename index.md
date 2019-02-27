@@ -85,7 +85,7 @@ Students are required to scribe one lecture note. The latex template for lecture
 
 ## Homework
 
-There will be about 4 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation and algorithm analysis. **Homework is required to be written in Latex**. Latex homework template will be provided.
+There will be 3 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation and algorithm analysis. **Homework is required to be written in Latex**. Latex homework template will be provided.
 <!-- \noindent\textbf{Collaboration Policy:} Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including
 Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances. -->
 
