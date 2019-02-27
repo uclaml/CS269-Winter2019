@@ -68,8 +68,12 @@ Grades will be computed based on the following factors:
 | 7 | 2/6 | Sauer’s Lemma and Covering Number |[lecture7](https://www.dropbox.com/s/xgmhpuuw05i514l/lec07.pdf?dl=0) | Chapter 3 in MRT |
 | 8 | 2/11 | Chaining and Dudley's Entropy Integral |[lecture8](https://www.dropbox.com/s/mzmi3o268d6uvl3/lecture8.pdf?dl=0) | |
 | 9 | 2/13 | Generalization Bounds of DNNs I |[lecture9](https://www.dropbox.com/s/2yckn0zq7k5h53z/lecture9.pdf?dl=0) | |
-| 10 | 2/20 | Generalization Bounds of DNNs II | | |
-| 11 | 2/25 | Generalization Bounds of DNNs III | | |
+| 10 | 2/20 | Generalization Bounds of DNNs II | [lecture10](https://www.dropbox.com/s/sdo72uhnytxwxs9/lecture10.pdf?dl=0) | |
+| 11 | 2/27 | Paper presentation | | |
+| 12 | 3/4 | Paper presentation | | |
+| 13 | 3/6 | Paper presentation | | |
+| 14 | 3/11 | Paper presentation | | |
+| 15 | 3/13 | Paper presentation | | |
 
 ## Academic Integrity Policy
 
