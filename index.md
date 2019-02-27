@@ -19,7 +19,7 @@ Two years of college mathematics, including calculus, linear algebra, probabilit
 - Office hours: 
     - The instructor's office hour is Thursday 1:30pm-2:30pm at Engineering VI 282. 
     - The TA's office hour is Monday 11:00am-1:00pm at Bolter Hall 3256S-F.
-- Course Website:[https://uclaml.github.io/CS269-Winter2019](https://uclaml.github.io/CS269-Winter2019)
+- Course Website: [https://uclaml.github.io/CS269-Winter2019](https://uclaml.github.io/CS269-Winter2019)
 - Course Forum: [https://piazza.com/ucla/winter2019/cs269/home](https://piazza.com/ucla/winter2019/cs269/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/winter2019/cs269).)
 
